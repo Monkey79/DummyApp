@@ -1,0 +1,46 @@
+/*---Header----*/
+.myHeader{
+	border: 2px solid blue;
+	position: relative;
+	top: 0px;
+	margin: 0px auto;
+}
+
+.myHeader .myHeaderTitle{
+	
+}
+/*---Menu----*/
+.myMenu{
+	float: left;
+	margin-right: 20px;
+	border: 2px solid red;
+}
+.myMenu .menuList{
+	padding-left: 0px;
+	list-style: none;
+}
+.myMenu .menuList .menuItem{
+	margin: 1px auto;
+	font-size: 24px;
+}
+
+
+/*---Content----*/
+.myMainCont{
+	
+}
+.myMainCont .myContMsg{
+
+}
+
+
+/*---Footer----*/
+.myFooter{
+	border: 2px solid green;
+	clear: left;
+}
+.myFooter .myFooterMsg{
+
+}
+
+
